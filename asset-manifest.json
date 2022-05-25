@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fdd211c.css",
+    "main.js": "/static/js/main.1bba6242.js",
+    "static/js/787.ec6b3678.chunk.js": "/static/js/787.ec6b3678.chunk.js",
+    "static/media/header-girl.png": "/static/media/header-girl.93d3f1b23e781cb55fdd.png",
+    "static/media/girl-with-child.png": "/static/media/girl-with-child.0231c2d95321e6a79824.png",
+    "static/media/jump-girl.png": "/static/media/jump-girl.be5687d8548debe212ed.png",
+    "static/media/running-girl.png": "/static/media/running-girl.dcc32181619b85ab2e4b.png",
+    "static/media/jason.png": "/static/media/jason.06a13f2806f54ca257aa.png",
+    "static/media/jhonson.png": "/static/media/jhonson.74cb3adfe5722e23ddd6.png",
+    "static/media/Alegreya-Medium.woff2": "/static/media/Alegreya-Medium.410ad94ac14eb9db20e5.woff2",
+    "static/media/Alegreya-Bold.woff2": "/static/media/Alegreya-Bold.334a8cf854d3822589df.woff2",
+    "static/media/Alegreya-Regular.woff2": "/static/media/Alegreya-Regular.e2af6fb834eb7bf3f649.woff2",
+    "static/media/monica.png": "/static/media/monica.830676e8dd856800b52b.png",
+    "static/media/JosefinSans-Regular.woff2": "/static/media/JosefinSans-Regular.a0311f7c50de08a1825b.woff2",
+    "static/media/JosefinSans-Bold.woff2": "/static/media/JosefinSans-Bold.7ad66a99647d73b37a56.woff2",
+    "static/media/gym-logo.svg": "/static/media/gym-logo.2a76c33277e15b8bb848.svg",
+    "static/media/menu-button.svg": "/static/media/menu-button.b593b95410973904171a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.b2cc6f3b87dd913f35b3.svg",
+    "static/media/google-plus.svg": "/static/media/google-plus.0e80ae259d4decc5709f.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.79677ec907ae9228b9c9.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.3bd41bbdf638a0c2e491.svg",
+    "main.3fdd211c.css.map": "/static/css/main.3fdd211c.css.map",
+    "main.1bba6242.js.map": "/static/js/main.1bba6242.js.map",
+    "787.ec6b3678.chunk.js.map": "/static/js/787.ec6b3678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdd211c.css",
+    "static/js/main.1bba6242.js"
+  ]
+}
